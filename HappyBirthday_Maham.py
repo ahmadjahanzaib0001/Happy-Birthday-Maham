@@ -18,12 +18,12 @@ st.markdown("---")
 # -------------------------------
 messages = [
     "Hey Maham 🌸",
-    "Before anything else... I really want to say sorry for being such a headache these days 😅",
+    "Before anything else... I really want to say sorry for being such a headache these days ",
     "I have no right to interfere or say anything to you... and I’ve felt really bad about it.",
     "So, I thought I’d make up for it with something small but sincere 💫",
     "🎉🎉🎉",
     "HAPPY BIRTHDAY, MAHAM! 🎂",
-    "Wishing you smiles, peace, and all the calm energy you deserve today (Which I ruined... sorry :( ) 💐",
+    "Wishing you smiles, peace, and all the calm energy you deserve today (Which I ruined... sorry:( ) 💐",
     "Thanks for being patient — and for being a genuinely wonderful friend (if I really am a friend for you) 💛",
     "From your annoying but sincerely grateful friend (again, if I am)",
     "💖 Hope this little surprise made you smile 💖"
